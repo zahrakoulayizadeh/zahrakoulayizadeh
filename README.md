@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zahrakoulayizadeh
 - 👀 I’m interested in machine learning, artificial intelegence, Mathmatics and programming
 - 🌱 I’m currently learning Supervised Machine Learning: Regression and Classification
-- 💞️ I’m looking to collaborate on Internships in machine learning, Artificial intelligence,... 
+- 💞️ I’m looking to collaborate on Internships/jobs in machine learning, Artificial intelligence,... 
 - 📫 How to reach me : zahra.koulayizade@gmail.com
 
 <!---
