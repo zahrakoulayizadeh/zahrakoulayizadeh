@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zahrakoulayizadeh
-- 👀 I’m interested in machine learning, artificial intelegence, mathmatics and programming.
-- 🌱 I’m currently learning Coursera's Machine Learning course by Andrew Ng.
-- 💞️ I’m looking to collaborate on internships/jobs in machine learning, artificial intelligence, etc.
+- 👀 I’m interested in Reinforcement Learning, machine learning, artificial intelegence, mathmatics and programming.
+- 🌱 I’m currently learning Reinforcment Learning.
+- 💞️ I’m looking to collaborate on graduate programs/internships/jobs in Reinforcement Learning, machine learning, artificial intelligence, etc.
 - 📫 How to reach me : zahra.koulayizade@gmail.com
 
 <!---
